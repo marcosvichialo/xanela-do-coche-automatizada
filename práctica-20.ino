@@ -1,11 +1,11 @@
-# xanela-do-coche-automatizada
+/* xanela-do-coche-automatizada
 Programa para simular a función dunha ventana de un automovil, da maneira  simplificada. O pulsador acciona o motor de subida o ser premido. unha  segunda pulsación fai que se accione o motor de baixada. O percorrido do  motor dura 7 segundos.
 
 Entradas: Pulsador (dixital)
 Saídas: Relé (2x dixital)
 
 Autor: Marcos Antonio Mariño Mota
-Data: Febreiro de 2023
+Data: Febreiro de 2024
 */
 
 #define motorArriba 11
